@@ -1,2 +1,6 @@
 class A():
    dd=1
+
+
+class B():
+  dd=1
